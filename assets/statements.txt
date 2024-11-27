@@ -1,0 +1,40 @@
+All dogs bark.
+Every bird has wings.
+All humans need oxygen to survive.
+Every book in the library has an author.
+All apples fall when dropped.
+Every country has a leader.
+All flowers eventually wither.
+Every language has grammar rules.
+All cars need fuel to operate.
+Every student in the class studies mathematics.
+All oceans are connected.
+Every key on this keyboard serves a purpose.
+All planets revolve around a star.
+Every animal needs food to live.
+All trees grow towards the light.
+Every city has a name.
+All seasons bring changes in weather.
+Every house has a door.
+All clocks measure time.
+Every teacher has taught a lesson.
+Some cats are black.
+There is a tree taller than this building.
+Some people enjoy reading novels.
+There exists a bird that cannot fly.
+Some countries are landlocked.
+There is a place where it never rains.
+Some students prefer studying at night.
+There exists a language spoken by fewer than 10 people.
+Some flowers bloom only at night.
+There is a person who has visited every continent.
+Some roads lead to the mountains.
+There exists a forest with no humans.
+Some rivers never dry up.
+There is a book written entirely in emojis.
+Some animals can mimic human speech.
+There exists a machine that can solve puzzles faster than humans.
+Some teachers use games to teach.
+There is a lake deeper than the ocean.
+Some children love eating vegetables.
+There exists a car powered entirely by sunlight.
